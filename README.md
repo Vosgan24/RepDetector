@@ -1,0 +1,3 @@
+-Combined absolute values of X, Y, Z 
+-Used Cubic Spline Interpolation
+-Peak Detector algorithm
